@@ -1,0 +1,29 @@
+{
+  "name": "crypto-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "@data-forge-plot/render": "0.0.4",
+    "asciichart": "^1.5.25",
+    "axios": "^0.21.1",
+    "coingecko-api": "^1.0.10",
+    "data-forge": "^1.8.15",
+    "data-forge-plot": "^0.6.3",
+    "discord": "^0.8.2",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "plotter": "^0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Patrick-andrews@bitbucket.org/Patrick-andrews/shitty-crypto-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Patrick-andrews/shitty-crypto-bot#readme"
+}
